@@ -15,4 +15,4 @@ Our API collects data from all over the web and shows users the info they’re l
 - **Hashtags**  
 - **Currency amounts**  
 
-This is all about finding the right patterns in the text and pulling out what we need. Let’s get to it!
+This is all about finding the right patterns in the text and pulling out what we need.
